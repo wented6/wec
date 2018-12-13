@@ -11,12 +11,6 @@ client.on('ready', () => {
 client.on('message', msg => {
   if (msg.content === 'welcome') {
     msg.reply('` 𝐖elcome 𝐓o , **Universe.**');
-      if (msg.content === '**WéllCome To Uni Sérver. :Univeres:   #**') {
-    msg.reply('` 𝐖elcome 𝐓o , **Universe.**');
-          if (msg.content === '**WéllCome To Uni Sérver. :Univeres:   #**') {
-    msg.reply('` 𝐖elcome 𝐓o , **Universe.**');
-              if (msg.content === '** WelCoُme To Universe .**') {
-    msg.reply('` 𝐖elcome 𝐓o , **Universe.**');
   }
 }); 
 
