@@ -11,7 +11,7 @@ client.on("message", message => {
       .setColor("#000000") 
       .setDescription(`
 
-	  ` 𝐖elcome 𝐓o , **Universe.**
+	 𝐖elcome 𝐓o **Universe.**
 `)
    message.channel.sendEmbed(embed)
     
