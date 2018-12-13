@@ -23,19 +23,7 @@ client.on("message", message => {
    
    
    
-client.on("message", message => {
-	var prefix = "";
- if (message.content === "welcome") {
-  const embed = new Discord.RichEmbed()  
-      .setColor("#000000") 
-      .setDescription(`
 
-	  ` 𝐖elcome 𝐓o , **Universe.**
-`)
-   message.channel.sendEmbed(embed)
-    
-   }
-   }); 
    
    
    
